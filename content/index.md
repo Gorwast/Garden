@@ -2,11 +2,9 @@
 title: El Inicio
 draft: false
 tags:
-  - example-tag
+  - Indice
 ---
 
-Tal vez te encuentres en este sitio por pura casualidad, no se, tal vez por curiosidad, solo quiero decir...
+Tal vez te encuentres en este sitio por pura casualidad, no se, tal vez por curiosidad, solo quiero decir... Gracias.
 
-[[Gracias]]
-
-Por tomarte el tiempo en 
+Mas que nada, realizo estas notas para dejar plasmado varios de mis intereses personales, siendo estos [[Libros/]], [[Videojuegos/]], 
