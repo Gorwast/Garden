@@ -1,0 +1,3 @@
+Tal vez te encuentres en este sitio por pura casualidad, no se, tal vez por curiosidad, solo quiero decir...
+	Gracias
+Por tomarte el tiempo en 
