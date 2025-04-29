@@ -7,4 +7,4 @@ tags:
 
 Tal vez te encuentres en este sitio por pura casualidad, no se, tal vez por curiosidad, solo quiero decir... Gracias.
 
-Mas que nada, realizo estas notas para dejar plasmado varios de mis intereses personales, siendo estos [[Libros/]], [[Videojuegos/]], 
+Mas que nada, realizo estas notas para dejar plasmado varios de mis intereses personales, siendo estos [[Libros/]], [[Videojuegos/]],  ^efc1c8

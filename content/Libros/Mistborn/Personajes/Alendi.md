@@ -2,7 +2,7 @@
 title: Alendi
 draft: false
 tags:
-  - example-tag
+  - personaje
 ---
 
-Alendi es el 
+Alendi es el nombre del posible autor del libro biografico mostrado en [[Mistborn]]
