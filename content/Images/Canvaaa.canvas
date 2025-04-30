@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"5ee42720a37e4a05","type":"text","text":"hola si","x":-300,"y":-180,"width":250,"height":60},
+		{"id":"d8da109ba3674b89","type":"file","file":"Images/Steam-profile.png","x":-375,"y":-440,"width":400,"height":225}
+	],
+	"edges":[]
+}
