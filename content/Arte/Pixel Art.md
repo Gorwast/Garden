@@ -16,3 +16,18 @@ Desde el momento que me empezaron a gustar los [[Videojuegos]], cuando era peque
 ![[spiffo_zomboid.png]]
 ![[apartment.png]]
 ![[denji_chainsawman_blood.png]]
+
+## Retocado
+
+![[~darkfantasy_ (1).png]]
+![[~darkfantasy_ (2).png]]
+![[~darkfantasy_ (3).png]]
+![[~darkfantasy_ (5).png]]
+![[~darkfantasy_ (7).png]]
+![[~darkfantasy_ (8).png]]
+![[~darkfantasy_ (9).png]]
+![[~darkfantasy_ (10).png]]
+![[~darkfantasy_ (11).png]]
+![[~darkfantasy_ (12).png]]
+![[cyberpunk (1).png]]
+![[germany_pixel_art.png]]

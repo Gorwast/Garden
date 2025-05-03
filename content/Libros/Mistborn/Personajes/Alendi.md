@@ -5,4 +5,4 @@ tags:
   - personaje
 ---
 
-Alendi es el nombre del posible autor del libro biografico mostrado en [[Mistborn]]
+Alendi es el nombre del posible autor del libro biográfico mostrado en [[Mistborn]]
