@@ -8,6 +8,6 @@ En el Capitulo 25 de El Pozo de la Ascención de [[Mistborn]] se habla de como l
 Se muestra que uno de los pozos de agua de luthadel ha sido envenenado pero no se muestra por quien y 
 
 
->[!note] Texto de Rashek
+>[!note] Texto de [[Kwaan]]
 >Al ser yo quien encontró a [[Alendi]], me convertí en una persona importante. Sobre todo entre los [[forjamundos]]
 
