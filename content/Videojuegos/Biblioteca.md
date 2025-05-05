@@ -8,7 +8,7 @@ tags:
 Tengo una larga lista de videojuegos en varias plataformas, este es el listado de las consolas y plataformas en pc que he llegado a usar y que he tenido algun juego
 ## PC
 [[Steam]]
-[[Origin]]
+[[EA App Origin]]
 # Consolas
 ### PS4
 
