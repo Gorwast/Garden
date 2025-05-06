@@ -27,6 +27,7 @@ Para la ps4 tengo una colección pequeña de juegos, la lista siguiente es mas q
 ### XBOX
 Si bien no cuento con un xbox, por varias promociones de amazon prime me ha tocado que regalan juegos de esta plataforma, los juegos con los que cuento son los siguientes:
 - Fallout 76
+
 ### NDS
 El Nintendo DS es una de mis primeras consolas que me regalaron mis padres de pequeño, uno de los juegos que llegue a jugar antiguamente, que recuerde, era el juego de BOLT™, New Super Mario Bros 
 En el 2023 en un viaje a Tijuana me encontré en venta este NDS y acabé por comprarla en unos 900 pesos, en su momento se me hizo algo cara pero le tengo mucho cariño que al final, honestamente, no me arrepiento de haberla comprado.

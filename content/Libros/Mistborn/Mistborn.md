@@ -10,7 +10,7 @@ Este es uno de los libros de Brandon Sanderson que tenia mucho tiempo queriendo 
 | Libro                       | Año publicación original | Año publicación en Español | Páginas en Español |
 | --------------------------- | ------------------------ | -------------------------- | ------------------ |
 | Nacidos de la bruma         | 2006                     | 2008                       | 688                |
-| [[El Pozo de la Ascención]] | 2007                     | 2009                       | 800                |
+| [[El Pozo de la Ascensión]] | 2007                     | 2009                       | 800                |
 | El héroe de las eras        | 2008                     | 2010                       | 768                |
 | Aleación de ley]            | 2011                     | 2012                       | 336                |
 | Sombras de identidad        | 2015                     | 2016                       | 384                |

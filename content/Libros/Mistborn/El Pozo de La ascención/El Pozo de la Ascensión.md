@@ -1,7 +1,7 @@
 ---
-title: El Pozo de la Ascención [Libro]
+title: El Pozo de la Ascensión [Libro]
 ---
-El pozo de la Ascención es el segundo libro de la trilogia original de [[Mistborn]]
+El pozo de la Ascensión es el segundo libro de la trilogia original de [[Mistborn]]
 
 ## Capitulos
 
