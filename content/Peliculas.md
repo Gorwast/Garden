@@ -1,17 +1,23 @@
-Hereditary
-Coco
-la posesión de verónica
-Kingsman el circulo
-Five nights at fredys
-Spider man un nuevo universo
-aquaman
-avengers 04 27 2016
-my hero academia 12 09 2018
-star wars 12 15 2017
-moana 12 11 2016
-dragon ball 09 28 2018
-lego batman 02 25 2017
-kong 03 26 2017
-la momia 06 28 2017
-guardianes 04 28 2017
-assasins creed 01 05 2017
+---
+title: Películas
+draft: 
+tags:
+  - concepto
+---
+1. Hereditary
+2. Coco
+3. La Posesión de Verónica
+4. Kingsman el circulo
+5. Five Nights at Fredys
+6. Spider Man Un Nuevo Universo
+7. Aquaman
+8. Avengers 04-27-2016
+9. My Hero Academia 12-09-2018
+10. Star Wars 12-15-2017
+11. Moana 12-11-2016
+12. Dragon Ball 09-28-2018
+13. Lego Batman 02-25-2017
+14. Kong 03-26-2017
+15. La Momia 06-28-2017
+16. Guardianes 04-28-2017
+17. Assasins Creed 01-05-2017
