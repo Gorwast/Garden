@@ -4,10 +4,13 @@ draft:
 tags:
   - concepto
 ---
+Las peliculas si bien las considero como un material de entretenimiento interesante, no suelo ver películas por gusto, 
+
+## Peliculas a las que he ido a ver al cine
 1. Hereditary
 2. Coco
 3. La Posesión de Verónica
-4. Kingsman el circulo
+4. Kingsman el circulo dorado
 5. Five Nights at Fredys
 6. Spider Man Un Nuevo Universo
 7. Aquaman

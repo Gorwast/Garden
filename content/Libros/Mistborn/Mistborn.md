@@ -4,7 +4,7 @@ draft: false
 tags:
   - libro
 ---
-Mistborn es una saga de libros fantasticos escritos por el autor Brandon Sanderson que empezo a escribir desde el 2006.
+Mistborn (Nacidos de la Bruma) es una saga de libros fantásticos escritos por el autor Brandon Sanderson que empezó a escribir desde el 2006.
 ## Mi opinión
 Este es uno de los libros de Brandon Sanderson que tenia mucho tiempo queriendo empezar a leer, de este autor me empecé a interesar desde que uno de mis youtuber favoritos lo menciono como uno de los mejores autores de fantasía, aludiendo a que Sanderson suele hacer sus libros con un sistema de magia mas avanzado o mas coherente a comparación de otros autores de su mismo genero.
 
