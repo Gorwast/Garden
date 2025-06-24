@@ -1,6 +1,6 @@
 ---
 ti: Quien Quiero Ser
-draft: true
+draft: false
 tags:
   - concepto
 ---
